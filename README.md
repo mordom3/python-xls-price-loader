@@ -1,4 +1,4 @@
-# portfolio-xlsx-price-loader
+# Python-xlsx-price-loader
 
 Python-based portfolio price loader and Excel updater for multi-asset tracking, with automatic CSV export and standalone HTML dashboard generation.
 
